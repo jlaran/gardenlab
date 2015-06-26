@@ -1,6 +1,12 @@
-node_modules/
-bower_components/
-*.log
+# Ignore this files
 
-build/
-dist/
+.DS_Store
+README.md
+*.md
+Gruntfile.js
+package.json
+
+# Ignore this folders
+
+node_modules/
+.sass-cache/
